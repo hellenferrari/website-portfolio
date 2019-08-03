@@ -4,25 +4,25 @@
       "jsonName": "dev-404-page-5f9",
       "internalComponentName": "ComponentDev404Page",
       "path": "/dev-404-page/",
-      "component": "/Volumes/HDD/Projects/website-portfolio/.cache/dev-404-page.js",
+      "component": "/Users/hellenferrari/Documents/Projects/gatsby/website-portfolio/.cache/dev-404-page.js",
       "componentChunkName": "component---cache-dev-404-page-js",
       "isCreatedByStatefulCreatePages": true,
       "context": {},
       "pluginCreator___NODE": "d48d1c52-fe48-53cb-8f08-aa4b47dde5a5",
       "pluginCreatorId": "d48d1c52-fe48-53cb-8f08-aa4b47dde5a5",
-      "componentPath": "/Volumes/HDD/Projects/website-portfolio/.cache/dev-404-page.js",
+      "componentPath": "/Users/hellenferrari/Documents/Projects/gatsby/website-portfolio/.cache/dev-404-page.js",
       "id": "SitePage /dev-404-page/",
       "parent": null,
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "342a77f5f915139c2b3dcb9bde71563c",
+        "contentDigest": "381574ff2bccc90b89c11ad596a79b9e",
         "description": "d48d1c52-fe48-53cb-8f08-aa4b47dde5a5",
         "owner": "internal-data-bridge"
       }
     },
     "d48d1c52-fe48-53cb-8f08-aa4b47dde5a5": {
-      "resolve": "/Volumes/HDD/Projects/website-portfolio/node_modules/gatsby/dist/internal-plugins/dev-404-page",
+      "resolve": "/Users/hellenferrari/Documents/Projects/gatsby/website-portfolio/node_modules/gatsby/dist/internal-plugins/dev-404-page",
       "id": "d48d1c52-fe48-53cb-8f08-aa4b47dde5a5",
       "name": "dev-404-page",
       "version": "1.0.0",
@@ -34,7 +34,7 @@
       ],
       "browserAPIs": [],
       "ssrAPIs": [],
-      "pluginFilepath": "/Volumes/HDD/Projects/website-portfolio/node_modules/gatsby/dist/internal-plugins/dev-404-page",
+      "pluginFilepath": "/Users/hellenferrari/Documents/Projects/gatsby/website-portfolio/node_modules/gatsby/dist/internal-plugins/dev-404-page",
       "packageJson": {
         "name": "dev-404-page",
         "description": "Internal plugin to add a 404 page in development with helpful information",
@@ -51,13 +51,13 @@
       "parent": null,
       "children": [],
       "internal": {
-        "contentDigest": "40a2cd98e3dfde7654a05afe21a07103",
+        "contentDigest": "b6aa5ee48f7ab5ae7b55ebf26fea3d3a",
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
     },
     "1fc32581-893a-55e8-8927-bcd667e2b700": {
-      "resolve": "/Volumes/HDD/Projects/website-portfolio/node_modules/gatsby/dist/internal-plugins/load-babel-config",
+      "resolve": "/Users/hellenferrari/Documents/Projects/gatsby/website-portfolio/node_modules/gatsby/dist/internal-plugins/load-babel-config",
       "id": "1fc32581-893a-55e8-8927-bcd667e2b700",
       "name": "load-babel-config",
       "version": "1.0.0",
@@ -69,7 +69,7 @@
       ],
       "browserAPIs": [],
       "ssrAPIs": [],
-      "pluginFilepath": "/Volumes/HDD/Projects/website-portfolio/node_modules/gatsby/dist/internal-plugins/load-babel-config",
+      "pluginFilepath": "/Users/hellenferrari/Documents/Projects/gatsby/website-portfolio/node_modules/gatsby/dist/internal-plugins/load-babel-config",
       "packageJson": {
         "name": "load-babel-config",
         "description": "Internal plugin that handles loading Babel configs",
@@ -86,13 +86,13 @@
       "parent": null,
       "children": [],
       "internal": {
-        "contentDigest": "fadc93f80f513f107fa18cfad3652efa",
+        "contentDigest": "60184b3a1997f117d272d57753649990",
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
     },
     "a5079d69-ba80-53dc-82f9-0f440bd5448c": {
-      "resolve": "/Volumes/HDD/Projects/website-portfolio/node_modules/gatsby/dist/internal-plugins/internal-data-bridge",
+      "resolve": "/Users/hellenferrari/Documents/Projects/gatsby/website-portfolio/node_modules/gatsby/dist/internal-plugins/internal-data-bridge",
       "id": "a5079d69-ba80-53dc-82f9-0f440bd5448c",
       "name": "internal-data-bridge",
       "version": "1.0.0",
@@ -105,7 +105,7 @@
       ],
       "browserAPIs": [],
       "ssrAPIs": [],
-      "pluginFilepath": "/Volumes/HDD/Projects/website-portfolio/node_modules/gatsby/dist/internal-plugins/internal-data-bridge",
+      "pluginFilepath": "/Users/hellenferrari/Documents/Projects/gatsby/website-portfolio/node_modules/gatsby/dist/internal-plugins/internal-data-bridge",
       "packageJson": {
         "name": "internal-data-bridge",
         "description": "An internal Gatsby plugin which creates data nodes from internal data",
@@ -122,13 +122,13 @@
       "parent": null,
       "children": [],
       "internal": {
-        "contentDigest": "77ca4ff2d6b7645e442045c850d6b22c",
+        "contentDigest": "56b6dac49849cf89aec5f3e03056821e",
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
     },
     "f795702c-a3b8-5a88-88ee-5d06019d44fa": {
-      "resolve": "/Volumes/HDD/Projects/website-portfolio/node_modules/gatsby/dist/internal-plugins/prod-404",
+      "resolve": "/Users/hellenferrari/Documents/Projects/gatsby/website-portfolio/node_modules/gatsby/dist/internal-plugins/prod-404",
       "id": "f795702c-a3b8-5a88-88ee-5d06019d44fa",
       "name": "prod-404",
       "version": "1.0.0",
@@ -140,7 +140,7 @@
       ],
       "browserAPIs": [],
       "ssrAPIs": [],
-      "pluginFilepath": "/Volumes/HDD/Projects/website-portfolio/node_modules/gatsby/dist/internal-plugins/prod-404",
+      "pluginFilepath": "/Users/hellenferrari/Documents/Projects/gatsby/website-portfolio/node_modules/gatsby/dist/internal-plugins/prod-404",
       "packageJson": {
         "name": "prod-404",
         "description": "Internal plugin to detect various flavors of 404 pages and ensure there's a 404.html path created as well to ensure compatability with static hosts",
@@ -157,13 +157,13 @@
       "parent": null,
       "children": [],
       "internal": {
-        "contentDigest": "99d6249951e6a0329e8f10130ecbb496",
+        "contentDigest": "ab629d84d65aab8578786d3cbad46ce0",
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
     },
     "6f4b2fa9-66b5-5205-a03f-140005a2cfe5": {
-      "resolve": "/Volumes/HDD/Projects/website-portfolio/node_modules/gatsby/dist/internal-plugins/webpack-theme-component-shadowing",
+      "resolve": "/Users/hellenferrari/Documents/Projects/gatsby/website-portfolio/node_modules/gatsby/dist/internal-plugins/webpack-theme-component-shadowing",
       "id": "6f4b2fa9-66b5-5205-a03f-140005a2cfe5",
       "name": "webpack-theme-component-shadowing",
       "version": "1.0.0",
@@ -175,7 +175,7 @@
       ],
       "browserAPIs": [],
       "ssrAPIs": [],
-      "pluginFilepath": "/Volumes/HDD/Projects/website-portfolio/node_modules/gatsby/dist/internal-plugins/webpack-theme-component-shadowing",
+      "pluginFilepath": "/Users/hellenferrari/Documents/Projects/gatsby/website-portfolio/node_modules/gatsby/dist/internal-plugins/webpack-theme-component-shadowing",
       "packageJson": {
         "name": "webpack-theme-component-shadowing",
         "description": "An internal Gatsby plugin which handles configuring webpack to ensure theme components fall back from the user's site to theme modules.",
@@ -192,13 +192,13 @@
       "parent": null,
       "children": [],
       "internal": {
-        "contentDigest": "e8c24dd26e93f0454e43aa1a34e0f314",
+        "contentDigest": "fa91cb787e49c4286142a04ba58d16d0",
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
     },
     "d8f4bf2b-73c7-5c69-93d1-79ac2ac7c2e8": {
-      "resolve": "/Volumes/HDD/Projects/website-portfolio/node_modules/gatsby-plugin-sass",
+      "resolve": "/Users/hellenferrari/Documents/Projects/gatsby/website-portfolio/node_modules/gatsby-plugin-sass",
       "id": "d8f4bf2b-73c7-5c69-93d1-79ac2ac7c2e8",
       "name": "gatsby-plugin-sass",
       "version": "2.0.11",
@@ -210,7 +210,7 @@
       ],
       "browserAPIs": [],
       "ssrAPIs": [],
-      "pluginFilepath": "/Volumes/HDD/Projects/website-portfolio/node_modules/gatsby-plugin-sass",
+      "pluginFilepath": "/Users/hellenferrari/Documents/Projects/gatsby/website-portfolio/node_modules/gatsby-plugin-sass",
       "packageJson": {
         "name": "gatsby-plugin-sass",
         "description": "Gatsby plugin to handle scss/sass files",
@@ -271,13 +271,13 @@
       "parent": null,
       "children": [],
       "internal": {
-        "contentDigest": "01562fc66d8dd3b29f8bcf0257fb9350",
+        "contentDigest": "a0ab64e98d769f383c6c0363ccc24fbb",
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
     },
     "7374ebf2-d961-52ee-92a2-c25e7cb387a9": {
-      "resolve": "/Volumes/HDD/Projects/website-portfolio",
+      "resolve": "/Users/hellenferrari/Documents/Projects/gatsby/website-portfolio",
       "id": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
       "name": "default-site-plugin",
       "version": "809848827f6837822f33c2e78eb1a941",
@@ -287,7 +287,7 @@
       "nodeAPIs": [],
       "browserAPIs": [],
       "ssrAPIs": [],
-      "pluginFilepath": "/Volumes/HDD/Projects/website-portfolio",
+      "pluginFilepath": "/Users/hellenferrari/Documents/Projects/gatsby/website-portfolio",
       "packageJson": {
         "name": "gatsby-starter-default",
         "description": "A simple starter to get up and developing quickly with Gatsby",
@@ -384,19 +384,39 @@
       "parent": null,
       "children": [],
       "internal": {
-        "contentDigest": "3e285ea716d4d011374e0e53704f40e7",
+        "contentDigest": "35c3c834c98e13144a500d604bbf45e4",
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
     },
-    "1807d8c4-6867-5e38-90c7-516676d7d4b3": {
-      "resolve": "/Volumes/HDD/Projects/website-portfolio/node_modules/gatsby-plugin-page-creator",
-      "id": "1807d8c4-6867-5e38-90c7-516676d7d4b3",
+    "Site": {
+      "siteMetadata": {
+        "title": "Home",
+        "description": "Website - Portfolio",
+        "author": "@hellenferrari"
+      },
+      "port": 8000,
+      "host": "localhost",
+      "pathPrefix": "",
+      "polyfill": true,
+      "buildTime": "2019-08-03T06:00:39.607Z",
+      "id": "Site",
+      "parent": null,
+      "children": [],
+      "internal": {
+        "contentDigest": "26f8caf967a0b083f8ef711735da23cf",
+        "type": "Site",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "e65864cc-ba94-5a8f-b742-fa861f4efeee": {
+      "resolve": "/Users/hellenferrari/Documents/Projects/gatsby/website-portfolio/node_modules/gatsby-plugin-page-creator",
+      "id": "e65864cc-ba94-5a8f-b742-fa861f4efeee",
       "name": "gatsby-plugin-page-creator",
       "version": "2.0.12",
       "pluginOptions": {
         "plugins": [],
-        "path": "/Volumes/HDD/Projects/website-portfolio/src/pages",
+        "path": "/Users/hellenferrari/Documents/Projects/gatsby/website-portfolio/src/pages",
         "pathCheck": false
       },
       "nodeAPIs": [
@@ -404,7 +424,7 @@
       ],
       "browserAPIs": [],
       "ssrAPIs": [],
-      "pluginFilepath": "/Volumes/HDD/Projects/website-portfolio/node_modules/gatsby-plugin-page-creator",
+      "pluginFilepath": "/Users/hellenferrari/Documents/Projects/gatsby/website-portfolio/node_modules/gatsby-plugin-page-creator",
       "packageJson": {
         "name": "gatsby-plugin-page-creator",
         "description": "Gatsby plugin that automatically creates pages from React components in specified directories",
@@ -487,28 +507,8 @@
       "parent": null,
       "children": [],
       "internal": {
-        "contentDigest": "3a4848abe75bbd2e8b8f4bf7a91c0649",
+        "contentDigest": "6f7b64aa9e905f4a508d178949859a95",
         "type": "SitePlugin",
-        "owner": "internal-data-bridge"
-      }
-    },
-    "Site": {
-      "siteMetadata": {
-        "title": "Home",
-        "description": "Website - Portfolio",
-        "author": "@hellenferrari"
-      },
-      "port": 8000,
-      "host": "localhost",
-      "pathPrefix": "",
-      "polyfill": true,
-      "buildTime": "2019-05-22T02:14:58.580Z",
-      "id": "Site",
-      "parent": null,
-      "children": [],
-      "internal": {
-        "contentDigest": "a67ffa744ebdae1fa01b9f2a09763bd6",
-        "type": "Site",
         "owner": "internal-data-bridge"
       }
     },
@@ -516,20 +516,20 @@
       "jsonName": "404-22d",
       "internalComponentName": "Component404",
       "path": "/404/",
-      "component": "/Volumes/HDD/Projects/website-portfolio/src/pages/404.js",
+      "component": "/Users/hellenferrari/Documents/Projects/gatsby/website-portfolio/src/pages/404.js",
       "componentChunkName": "component---src-pages-404-js",
       "isCreatedByStatefulCreatePages": true,
       "context": {},
-      "pluginCreator___NODE": "1807d8c4-6867-5e38-90c7-516676d7d4b3",
-      "pluginCreatorId": "1807d8c4-6867-5e38-90c7-516676d7d4b3",
-      "componentPath": "/Volumes/HDD/Projects/website-portfolio/src/pages/404.js",
+      "pluginCreator___NODE": "e65864cc-ba94-5a8f-b742-fa861f4efeee",
+      "pluginCreatorId": "e65864cc-ba94-5a8f-b742-fa861f4efeee",
+      "componentPath": "/Users/hellenferrari/Documents/Projects/gatsby/website-portfolio/src/pages/404.js",
       "id": "SitePage /404/",
       "parent": null,
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "54b92c4cc0106ec19760652a1220edc4",
-        "description": "1807d8c4-6867-5e38-90c7-516676d7d4b3",
+        "contentDigest": "c73e3b40a470f9a89e04cd70e056596b",
+        "description": "e65864cc-ba94-5a8f-b742-fa861f4efeee",
         "owner": "internal-data-bridge"
       }
     },
@@ -537,20 +537,20 @@
       "jsonName": "about-f34",
       "internalComponentName": "ComponentAbout",
       "path": "/about/",
-      "component": "/Volumes/HDD/Projects/website-portfolio/src/pages/about.js",
+      "component": "/Users/hellenferrari/Documents/Projects/gatsby/website-portfolio/src/pages/about.js",
       "componentChunkName": "component---src-pages-about-js",
       "isCreatedByStatefulCreatePages": true,
       "context": {},
-      "pluginCreator___NODE": "1807d8c4-6867-5e38-90c7-516676d7d4b3",
-      "pluginCreatorId": "1807d8c4-6867-5e38-90c7-516676d7d4b3",
-      "componentPath": "/Volumes/HDD/Projects/website-portfolio/src/pages/about.js",
+      "pluginCreator___NODE": "e65864cc-ba94-5a8f-b742-fa861f4efeee",
+      "pluginCreatorId": "e65864cc-ba94-5a8f-b742-fa861f4efeee",
+      "componentPath": "/Users/hellenferrari/Documents/Projects/gatsby/website-portfolio/src/pages/about.js",
       "id": "SitePage /about/",
       "parent": null,
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "c77778ed190bb5967b472704e4023ed3",
-        "description": "1807d8c4-6867-5e38-90c7-516676d7d4b3",
+        "contentDigest": "f44c95df876ce5d501d8ec6105ed86ef",
+        "description": "e65864cc-ba94-5a8f-b742-fa861f4efeee",
         "owner": "internal-data-bridge"
       }
     },
@@ -558,20 +558,20 @@
       "jsonName": "blog-f7a",
       "internalComponentName": "ComponentBlog",
       "path": "/blog/",
-      "component": "/Volumes/HDD/Projects/website-portfolio/src/pages/blog.js",
+      "component": "/Users/hellenferrari/Documents/Projects/gatsby/website-portfolio/src/pages/blog.js",
       "componentChunkName": "component---src-pages-blog-js",
       "isCreatedByStatefulCreatePages": true,
       "context": {},
-      "pluginCreator___NODE": "1807d8c4-6867-5e38-90c7-516676d7d4b3",
-      "pluginCreatorId": "1807d8c4-6867-5e38-90c7-516676d7d4b3",
-      "componentPath": "/Volumes/HDD/Projects/website-portfolio/src/pages/blog.js",
+      "pluginCreator___NODE": "e65864cc-ba94-5a8f-b742-fa861f4efeee",
+      "pluginCreatorId": "e65864cc-ba94-5a8f-b742-fa861f4efeee",
+      "componentPath": "/Users/hellenferrari/Documents/Projects/gatsby/website-portfolio/src/pages/blog.js",
       "id": "SitePage /blog/",
       "parent": null,
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "7f56fdf8405dffd6077be862d7468dc7",
-        "description": "1807d8c4-6867-5e38-90c7-516676d7d4b3",
+        "contentDigest": "565c9c0bce0c4f176cd07660dca62df0",
+        "description": "e65864cc-ba94-5a8f-b742-fa861f4efeee",
         "owner": "internal-data-bridge"
       }
     },
@@ -579,20 +579,20 @@
       "jsonName": "contact-26a",
       "internalComponentName": "ComponentContact",
       "path": "/contact/",
-      "component": "/Volumes/HDD/Projects/website-portfolio/src/pages/contact.js",
+      "component": "/Users/hellenferrari/Documents/Projects/gatsby/website-portfolio/src/pages/contact.js",
       "componentChunkName": "component---src-pages-contact-js",
       "isCreatedByStatefulCreatePages": true,
       "context": {},
-      "pluginCreator___NODE": "1807d8c4-6867-5e38-90c7-516676d7d4b3",
-      "pluginCreatorId": "1807d8c4-6867-5e38-90c7-516676d7d4b3",
-      "componentPath": "/Volumes/HDD/Projects/website-portfolio/src/pages/contact.js",
+      "pluginCreator___NODE": "e65864cc-ba94-5a8f-b742-fa861f4efeee",
+      "pluginCreatorId": "e65864cc-ba94-5a8f-b742-fa861f4efeee",
+      "componentPath": "/Users/hellenferrari/Documents/Projects/gatsby/website-portfolio/src/pages/contact.js",
       "id": "SitePage /contact/",
       "parent": null,
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "132fc4e911f19bf923aa8c3fb5b5dbb2",
-        "description": "1807d8c4-6867-5e38-90c7-516676d7d4b3",
+        "contentDigest": "3c9e01c5ad17b8051bc223b48327764f",
+        "description": "e65864cc-ba94-5a8f-b742-fa861f4efeee",
         "owner": "internal-data-bridge"
       }
     },
@@ -600,20 +600,20 @@
       "jsonName": "index",
       "internalComponentName": "ComponentIndex",
       "path": "/",
-      "component": "/Volumes/HDD/Projects/website-portfolio/src/pages/index.js",
+      "component": "/Users/hellenferrari/Documents/Projects/gatsby/website-portfolio/src/pages/index.js",
       "componentChunkName": "component---src-pages-index-js",
       "isCreatedByStatefulCreatePages": true,
       "context": {},
-      "pluginCreator___NODE": "1807d8c4-6867-5e38-90c7-516676d7d4b3",
-      "pluginCreatorId": "1807d8c4-6867-5e38-90c7-516676d7d4b3",
-      "componentPath": "/Volumes/HDD/Projects/website-portfolio/src/pages/index.js",
+      "pluginCreator___NODE": "e65864cc-ba94-5a8f-b742-fa861f4efeee",
+      "pluginCreatorId": "e65864cc-ba94-5a8f-b742-fa861f4efeee",
+      "componentPath": "/Users/hellenferrari/Documents/Projects/gatsby/website-portfolio/src/pages/index.js",
       "id": "SitePage /",
       "parent": null,
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "55cf480f3b92fc0d76de8557bb622c78",
-        "description": "1807d8c4-6867-5e38-90c7-516676d7d4b3",
+        "contentDigest": "6d2061ad9afb8c3022c45e4c48abb285",
+        "description": "e65864cc-ba94-5a8f-b742-fa861f4efeee",
         "owner": "internal-data-bridge"
       }
     },
@@ -621,20 +621,20 @@
       "jsonName": "portfolio-964",
       "internalComponentName": "ComponentPortfolio",
       "path": "/portfolio/",
-      "component": "/Volumes/HDD/Projects/website-portfolio/src/pages/portfolio.js",
+      "component": "/Users/hellenferrari/Documents/Projects/gatsby/website-portfolio/src/pages/portfolio.js",
       "componentChunkName": "component---src-pages-portfolio-js",
       "isCreatedByStatefulCreatePages": true,
       "context": {},
-      "pluginCreator___NODE": "1807d8c4-6867-5e38-90c7-516676d7d4b3",
-      "pluginCreatorId": "1807d8c4-6867-5e38-90c7-516676d7d4b3",
-      "componentPath": "/Volumes/HDD/Projects/website-portfolio/src/pages/portfolio.js",
+      "pluginCreator___NODE": "e65864cc-ba94-5a8f-b742-fa861f4efeee",
+      "pluginCreatorId": "e65864cc-ba94-5a8f-b742-fa861f4efeee",
+      "componentPath": "/Users/hellenferrari/Documents/Projects/gatsby/website-portfolio/src/pages/portfolio.js",
       "id": "SitePage /portfolio/",
       "parent": null,
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "569fdd34be60758dc45fb7984793ed57",
-        "description": "1807d8c4-6867-5e38-90c7-516676d7d4b3",
+        "contentDigest": "2d6faf475d2c1ca4e371b30abbb98a98",
+        "description": "e65864cc-ba94-5a8f-b742-fa861f4efeee",
         "owner": "internal-data-bridge"
       }
     },
@@ -642,20 +642,20 @@
       "jsonName": "reading-list-6d3",
       "internalComponentName": "ComponentReadingList",
       "path": "/reading-list/",
-      "component": "/Volumes/HDD/Projects/website-portfolio/src/pages/reading-list.js",
+      "component": "/Users/hellenferrari/Documents/Projects/gatsby/website-portfolio/src/pages/reading-list.js",
       "componentChunkName": "component---src-pages-reading-list-js",
       "isCreatedByStatefulCreatePages": true,
       "context": {},
-      "pluginCreator___NODE": "1807d8c4-6867-5e38-90c7-516676d7d4b3",
-      "pluginCreatorId": "1807d8c4-6867-5e38-90c7-516676d7d4b3",
-      "componentPath": "/Volumes/HDD/Projects/website-portfolio/src/pages/reading-list.js",
+      "pluginCreator___NODE": "e65864cc-ba94-5a8f-b742-fa861f4efeee",
+      "pluginCreatorId": "e65864cc-ba94-5a8f-b742-fa861f4efeee",
+      "componentPath": "/Users/hellenferrari/Documents/Projects/gatsby/website-portfolio/src/pages/reading-list.js",
       "id": "SitePage /reading-list/",
       "parent": null,
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "257c71739b094c8921959108f996b50f",
-        "description": "1807d8c4-6867-5e38-90c7-516676d7d4b3",
+        "contentDigest": "a222c628c8b3b6523185588bb732da60",
+        "description": "e65864cc-ba94-5a8f-b742-fa861f4efeee",
         "owner": "internal-data-bridge"
       }
     },
@@ -663,20 +663,20 @@
       "jsonName": "resume-e4f",
       "internalComponentName": "ComponentResume",
       "path": "/resume/",
-      "component": "/Volumes/HDD/Projects/website-portfolio/src/pages/resume.js",
+      "component": "/Users/hellenferrari/Documents/Projects/gatsby/website-portfolio/src/pages/resume.js",
       "componentChunkName": "component---src-pages-resume-js",
       "isCreatedByStatefulCreatePages": true,
       "context": {},
-      "pluginCreator___NODE": "1807d8c4-6867-5e38-90c7-516676d7d4b3",
-      "pluginCreatorId": "1807d8c4-6867-5e38-90c7-516676d7d4b3",
-      "componentPath": "/Volumes/HDD/Projects/website-portfolio/src/pages/resume.js",
+      "pluginCreator___NODE": "e65864cc-ba94-5a8f-b742-fa861f4efeee",
+      "pluginCreatorId": "e65864cc-ba94-5a8f-b742-fa861f4efeee",
+      "componentPath": "/Users/hellenferrari/Documents/Projects/gatsby/website-portfolio/src/pages/resume.js",
       "id": "SitePage /resume/",
       "parent": null,
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "ef61e10a3a75e0eb07d18c76d112e3ae",
-        "description": "1807d8c4-6867-5e38-90c7-516676d7d4b3",
+        "contentDigest": "e553313776e19488ba2464e3d1f01610",
+        "description": "e65864cc-ba94-5a8f-b742-fa861f4efeee",
         "owner": "internal-data-bridge"
       }
     },
@@ -684,19 +684,19 @@
       "jsonName": "404-html-516",
       "internalComponentName": "Component404Html",
       "path": "/404.html",
-      "component": "/Volumes/HDD/Projects/website-portfolio/src/pages/404.js",
+      "component": "/Users/hellenferrari/Documents/Projects/gatsby/website-portfolio/src/pages/404.js",
       "componentChunkName": "component---src-pages-404-js",
       "isCreatedByStatefulCreatePages": true,
       "context": {},
       "pluginCreator___NODE": "f795702c-a3b8-5a88-88ee-5d06019d44fa",
       "pluginCreatorId": "f795702c-a3b8-5a88-88ee-5d06019d44fa",
-      "componentPath": "/Volumes/HDD/Projects/website-portfolio/src/pages/404.js",
+      "componentPath": "/Users/hellenferrari/Documents/Projects/gatsby/website-portfolio/src/pages/404.js",
       "id": "SitePage /404.html",
       "parent": null,
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "0a051da1b06f6bd5c9edec43fee7edcc",
+        "contentDigest": "b4c08a93c1005a7a06d9c2606cdb8e36",
         "description": "f795702c-a3b8-5a88-88ee-5d06019d44fa",
         "owner": "internal-data-bridge"
       }
@@ -728,16 +728,8 @@
     "404-html-516": "285/path---404-html-516-62a-0SUcWyAf8ecbYDsMhQkEfPzV8"
   },
   "components": {
-    "/Volumes/HDD/Projects/website-portfolio/.cache/dev-404-page.js": {
-      "componentPath": "/Volumes/HDD/Projects/website-portfolio/.cache/dev-404-page.js",
-      "query": "",
-      "pages": [
-        "/dev-404-page/"
-      ],
-      "isInBootstrap": true
-    },
-    "/Volumes/HDD/Projects/website-portfolio/src/pages/404.js": {
-      "componentPath": "/Volumes/HDD/Projects/website-portfolio/src/pages/404.js",
+    "/Users/hellenferrari/Documents/Projects/gatsby/website-portfolio/src/pages/404.js": {
+      "componentPath": "/Users/hellenferrari/Documents/Projects/gatsby/website-portfolio/src/pages/404.js",
       "query": "",
       "pages": [
         "/404/",
@@ -745,70 +737,78 @@
       ],
       "isInBootstrap": true
     },
-    "/Volumes/HDD/Projects/website-portfolio/src/pages/about.js": {
-      "componentPath": "/Volumes/HDD/Projects/website-portfolio/src/pages/about.js",
+    "/Users/hellenferrari/Documents/Projects/gatsby/website-portfolio/src/pages/about.js": {
+      "componentPath": "/Users/hellenferrari/Documents/Projects/gatsby/website-portfolio/src/pages/about.js",
       "query": "",
       "pages": [
         "/about/"
       ],
       "isInBootstrap": true
     },
-    "/Volumes/HDD/Projects/website-portfolio/src/pages/blog.js": {
-      "componentPath": "/Volumes/HDD/Projects/website-portfolio/src/pages/blog.js",
+    "/Users/hellenferrari/Documents/Projects/gatsby/website-portfolio/src/pages/blog.js": {
+      "componentPath": "/Users/hellenferrari/Documents/Projects/gatsby/website-portfolio/src/pages/blog.js",
       "query": "",
       "pages": [
         "/blog/"
       ],
       "isInBootstrap": true
     },
-    "/Volumes/HDD/Projects/website-portfolio/src/pages/contact.js": {
-      "componentPath": "/Volumes/HDD/Projects/website-portfolio/src/pages/contact.js",
+    "/Users/hellenferrari/Documents/Projects/gatsby/website-portfolio/src/pages/contact.js": {
+      "componentPath": "/Users/hellenferrari/Documents/Projects/gatsby/website-portfolio/src/pages/contact.js",
       "query": "",
       "pages": [
         "/contact/"
       ],
       "isInBootstrap": true
     },
-    "/Volumes/HDD/Projects/website-portfolio/src/pages/index.js": {
-      "componentPath": "/Volumes/HDD/Projects/website-portfolio/src/pages/index.js",
+    "/Users/hellenferrari/Documents/Projects/gatsby/website-portfolio/src/pages/index.js": {
+      "componentPath": "/Users/hellenferrari/Documents/Projects/gatsby/website-portfolio/src/pages/index.js",
       "query": "",
       "pages": [
         "/"
       ],
       "isInBootstrap": true
     },
-    "/Volumes/HDD/Projects/website-portfolio/src/pages/portfolio.js": {
-      "componentPath": "/Volumes/HDD/Projects/website-portfolio/src/pages/portfolio.js",
+    "/Users/hellenferrari/Documents/Projects/gatsby/website-portfolio/src/pages/portfolio.js": {
+      "componentPath": "/Users/hellenferrari/Documents/Projects/gatsby/website-portfolio/src/pages/portfolio.js",
       "query": "",
       "pages": [
         "/portfolio/"
       ],
       "isInBootstrap": true
     },
-    "/Volumes/HDD/Projects/website-portfolio/src/pages/reading-list.js": {
-      "componentPath": "/Volumes/HDD/Projects/website-portfolio/src/pages/reading-list.js",
+    "/Users/hellenferrari/Documents/Projects/gatsby/website-portfolio/src/pages/reading-list.js": {
+      "componentPath": "/Users/hellenferrari/Documents/Projects/gatsby/website-portfolio/src/pages/reading-list.js",
       "query": "",
       "pages": [
         "/reading-list/"
       ],
       "isInBootstrap": true
     },
-    "/Volumes/HDD/Projects/website-portfolio/src/pages/resume.js": {
-      "componentPath": "/Volumes/HDD/Projects/website-portfolio/src/pages/resume.js",
+    "/Users/hellenferrari/Documents/Projects/gatsby/website-portfolio/src/pages/resume.js": {
+      "componentPath": "/Users/hellenferrari/Documents/Projects/gatsby/website-portfolio/src/pages/resume.js",
       "query": "",
       "pages": [
         "/resume/"
+      ],
+      "isInBootstrap": true
+    },
+    "/Users/hellenferrari/Documents/Projects/gatsby/website-portfolio/.cache/dev-404-page.js": {
+      "componentPath": "/Users/hellenferrari/Documents/Projects/gatsby/website-portfolio/.cache/dev-404-page.js",
+      "query": "",
+      "pages": [
+        "/dev-404-page/"
       ],
       "isInBootstrap": true
     }
   },
   "staticQueryComponents": {
     "sq--src-components-seo-js": {
-      "name": "volumesHddProjectsWebsitePortfolioSrcComponentsSeoJs2417117884",
-      "componentPath": "/Volumes/HDD/Projects/website-portfolio/src/components/seo.js",
+      "name": "usersHellenferrariDocumentsProjectsGatsbyWebsitePortfolioSrcComponentsSeoJs2417117884",
+      "componentPath": "/Users/hellenferrari/Documents/Projects/gatsby/website-portfolio/src/components/seo.js",
       "id": "sq--src-components-seo-js",
       "jsonName": "sq--src-components-seo-js",
-      "query": "query volumesHddProjectsWebsitePortfolioSrcComponentsSeoJs2417117884 {\n  site {\n    siteMetadata {\n      title\n      description\n      author\n    }\n  }\n}\n",
+      "query": "query usersHellenferrariDocumentsProjectsGatsbyWebsitePortfolioSrcComponentsSeoJs2417117884 {\n  site {\n    siteMetadata {\n      title\n      description\n      author\n    }\n  }\n}\n",
       "hash": 2417117884
     }
   }
