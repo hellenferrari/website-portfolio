@@ -169,6 +169,12 @@ body {
   left: 4.5rem;
 }
 
+.header__menu-box {
+  position: absolute;
+  top: 4rem;
+  right: 4.5rem;
+}
+
 .header__logo {
   height: 6rem;
   transition: all 0.3s;
@@ -425,6 +431,23 @@ body {
   .section-projects {
     padding: 25rem 0 10rem 0;
   }
+}
+
+.section-contact {
+  padding: 20rem 0;
+  background-image: linear-gradient(
+      to right bottom,
+      rgba(142, 57, 153, 0.75),
+      rgba(30, 115, 172, 0.75)
+    ),
+    url(../img/tech.jpeg);
+  background-size: cover;
+  /* margin-top: rem; */
+  transform: skewY(-5deg);
+}
+
+.section-contact > * {
+  transform: skewY(5deg);
 }
 
 .feature-box {
